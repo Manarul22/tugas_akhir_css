@@ -1,0 +1,89 @@
+* {
+   margin: 0;
+}
+
+body {
+   font-family: Helvetica;
+}
+
+.navbar {
+   background-color: #FDF7D3;
+}
+
+.navbar a {
+   color: #463D1C;
+}
+
+.navbar-nav a:hover {
+   color: #ecd23d;
+
+}
+
+span {
+   color: #ecd23d;
+}
+
+.hero {
+   background-color: #FDF7D3;
+}
+
+.btn-hero-started{
+   background-color: #f5e06d;
+   border: none;
+   color: #463D1C;
+   border-radius: 20px 0px 20px 20px;
+   box-shadow: 1px 1px 1px #463D1C;
+}
+
+.btn-hero-plan {
+   background-color: #463D1C;
+   border: none;
+   color: #eee;
+   border-radius: 20px 20px 20px 0px;
+   box-shadow: 2px 2px 2px #463D1C;
+}
+
+.btn-hero-started:hover {
+   background-color: #ecd23d;
+   color: #463D1C;
+}
+
+.btn-hero-plan:hover {
+   background-color: #312b14;
+}
+
+.hero-professional {
+   color: #ad8907;
+   letter-spacing: 3px;
+   /* text-shadow: 1px 1px 1px #ecd23d; */
+}
+
+.hero-h1 {
+   font-size: 54px;
+   letter-spacing: 2px;
+}
+
+p {
+   text-align: justify;
+}
+
+.about-hero {
+   font-size: 60px;
+}
+
+.peach {
+   margin-left: 300px;
+   margin-top: 120px;
+   width: 50%;
+}
+
+.niomic {
+   text-decoration: none;
+   color: #312b14;
+
+}
+
+.niomic:hover {
+   color: #ad8907;
+}
+
